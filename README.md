@@ -1,110 +1,70 @@
-# internship_project
-# E-Commerce Frontend (React)
+# Getting Started with Create React App
 
-A fully functional **frontend e-commerce application built with React.js** during my internship.
-The project focuses on creating a responsive and interactive shopping interface that simulates a real-world online store.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## Overview
+In the project directory, you can run:
 
-This project implements the frontend of an online shopping platform using **React and modern JavaScript practices**.
-Users can browse products, view product details, add items to a cart, and manage their shopping session through a dynamic interface.
+### `npm start`
 
-The application is designed with a **component-based architecture**, ensuring scalability and maintainability.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Features
+### `npm test`
 
-* Product catalog browsing
-* Product detail pages
-* Add to cart functionality
-* Cart management (add, remove, update quantity)
-* Responsive UI for mobile and desktop
-* Dynamic rendering using React components
-* State management for cart operations
-* Modular and reusable component structure
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## Tech Stack
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Frontend Framework
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* React.js
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Languages
+### `npm run eject`
 
-* JavaScript (ES6+)
-* HTML5
-* CSS3
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Tools
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* Git
-* GitHub
-* Node.js
-* npm
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
----
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## How to Run the Project
+## Learn More
 
-1. Clone the repository
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```
-git clone https://github.com/AJ7538/internship_project.git
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-2. Navigate into the project folder
+### Code Splitting
 
-```
-cd repository-name
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-3. Install dependencies
+### Analyzing the Bundle Size
 
-```
-npm install
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-4. Start the development server
+### Making a Progressive Web App
 
-```
-npm start
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-The app will run on:
+### Advanced Configuration
 
-```
-http://localhost:3000
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## Learning Outcomes
+### Deployment
 
-Through this project I gained experience in:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-* Building scalable UIs using **React components**
-* Managing UI state for shopping cart functionality
-* Structuring large frontend projects
-* Creating responsive layouts for e-commerce applications
+### `npm run build` fails to minify
 
----
-
-## Internship Context
-
-This project was developed during my internship at **DeepQuantica**.
-
-The repository is shared **only for portfolio and demonstration purposes** with permission from the company.
-All intellectual property belongs to the company.
-
----
-
-## Author
-
-Ayaz
-Computer Science Student
-
-GitHub: https://github.com/AJ7538
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
